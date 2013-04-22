@@ -1,0 +1,17 @@
+
+    1. If you worked in pairs:
+        Ryan and Devin worked on the first part of the assignment while I supervised and provided hints, and then we switched for the second half. I worked on the second half while they gave ideas and helped troubleshoot.
+        I gave ideas to Ryand and Devin as well as working on the second part.
+        We all gathered to work together, and emailed code back and forth. It wasn't as easy at Git, but it worked.
+        It made troubleshooting much easier and quicker, but it slowed progress sometimes.
+    Where did you have trouble with this assignment? How did you move forward? What topics still confuse you?
+
+ We had trouble with the math in the second part. It was a silly mistake, but it had almost all of our math wrong. When we tried to multiply we would do something like result *= number. However, result started off as 0. This would always yield a 0 for multiplication or division, and a negative number for subtration. It took us forever to work through the logic and figure that out!
+
+    What did you learn from this assignment? (Please be specific)
+
+ Double check your math, and watch how you instansiate variables.
+
+    How could this assignment be improved in the future?
+
+Allow students to use an ArrayList for the second half.
